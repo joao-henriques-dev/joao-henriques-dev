@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Bachelor's Student in Computer Science & Engineering, passionate about technology and its impact in society.
+I'm a Bachelor's Student in Computer Science & Engineering, curious about technology and its impact in society, with a strong passion for programming, a field in which I want to continue studying to become a great engineer at using AI/ML models. Adopting a mentality of an active, lifelong learner, I'm always looking to learn new skills and grow my current ones, focusing on project-based learning to keep challenging myself to step out of my comfort zone and bolster my tech stack.
 
 > _"We are only confined by the walls we build ourselves."_
 
@@ -46,7 +46,7 @@ I'm a Bachelor's Student in Computer Science & Engineering, passionate about tec
 
 ---
 
-## 🚩 Highlight Projects
+## 🚩 Highlighted Projects
 
 - **Naval Battle Game (Python + Pygame):**  
   A fun twist on the classic battleship game, built to sharpen my Python and game development skills.
@@ -59,13 +59,18 @@ I'm a Bachelor's Student in Computer Science & Engineering, passionate about tec
 ## 🌱 Currently Learning
 
 - Deepening my understanding of Machine Learning and Deep Learning fundamentals
-- Building real-world ML projects with Python’s data stack
+- Scratching the surface of Git
+- Solidifying and expanding my knowledge about Front-End and Back-End Development
+- Discovering cutting-edge tools regarding Quantum Computing
+- Learning Web scrapping and SQL databases in Python
+- Preparing for my next university semester (Data Structures and Algorithms, Operating Systems Fundamentals)
 
 ---
 
-## 🤔 Fun Fact
+## 🤔 Fun Facts
 
-I struggle not to fall in love with any science — I’m endlessly curious about how our universe is shaped!
+- I struggle not to fall in love with any science, as I’m endlessly curious about how our universe is shaped!
+- I possess a grand admiration for football analysis, especially in the data side of the sport.
 
 ---
 
