@@ -1,7 +1,7 @@
 # Hi there, I'm João Henriques 👋
 
 🎓 **1st year BSc in Computer Science and Engineering Student**  
-🚀 Aspiring **AI/ML Engineer** & Future **Data Scientist / Analyst / Engineer**
+🚀 Aspiring **AI/ML Engineer** & Future **Data Scientist**
 
 ---
 
