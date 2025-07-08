@@ -1,13 +1,13 @@
 # Hi there, I'm João Henriques 👋
 
-🎓 **1st Year Computer Science & Engineering Student**  
+🎓 **1st year BSc in Computer Science and Engineering Student**  
 🚀 Aspiring **AI/ML Engineer** & Future **Data Scientist / Analyst / Engineer**
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm João, a curious mind and a lifelong learner, currently laying down the foundations for a career in Artificial Intelligence and Data Science. I’m passionate about exploring the mechanisms that shape our universe, and I strive to break through every barrier in my way.
+I'm a Bachelor's Student in Computer Science & Engineering, passionate about technology and its impact in society.
 
 > _"We are only confined by the walls we build ourselves."_
 
@@ -46,8 +46,8 @@ I'm João, a curious mind and a lifelong learner, currently laying down the foun
 - **Naval Battle Game (Python + Pygame):**  
   A fun twist on the classic battleship game, built to sharpen my Python and game development skills.
 
-- **Static Website (HTML + Bootstrap):**  
-  Designed and built during high school to showcase my grasp of web technologies and responsive design.
+- **Static Website for a Botanic Congress (HTML + Bootstrap):**  
+  Designed and built during 10th grade to contribute to the first Botanic Congress my school was hosting.
 
 ---
 
@@ -60,7 +60,7 @@ I'm João, a curious mind and a lifelong learner, currently laying down the foun
 
 ## 🤔 Fun Fact
 
-I struggle not to fall in love with any science—I’m endlessly curious about how our universe is shaped!
+I struggle not to fall in love with any science — I’m endlessly curious about how our universe is shaped!
 
 ---
 
