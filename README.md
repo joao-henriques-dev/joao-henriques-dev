@@ -15,7 +15,7 @@ I'm a Bachelor's Student in Computer Science & Engineering, passionate about tec
 
 ## 🛠️ Skills & Tools
 
-### Languages
+### Programming Languages
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
@@ -32,10 +32,14 @@ I'm a Bachelor's Student in Computer Science & Engineering, passionate about tec
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/matplotlib.svg" alt="Matplotlib" width="40" height="40"/>
 </p>
 
-### Web & Other Tools
+### Web Development
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
+</p>
+
+### Other Tools
+<p>
   <img src="https://raw.githubusercontent.com/pygame/pygame/main/docs/pygame.ico" alt="Pygame" width="40" height="40"/>
 </p>
 
@@ -53,7 +57,7 @@ I'm a Bachelor's Student in Computer Science & Engineering, passionate about tec
 
 ## 🌱 Currently Learning
 
-- Deepening my understanding of Machine Learning and Data Science fundamentals
+- Deepening my understanding of Machine Learning and Deep Learning fundamentals
 - Building real-world ML projects with Python’s data stack
 
 ---
