@@ -28,7 +28,7 @@ I'm a Bachelor's Student in Computer Science & Engineering, passionate about tec
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scikitlearn.svg" alt="Scikit-Learn" width="40" height="40"/>
-  <img src="https://images.seeklogo.com/logo-png/44/1/seaborn-logo-png_seeklogo-441844.png" alt="Seaborn" width="40" height="40"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
   <img src="https://matplotlib.org/3.5.0/_static/images/logo2.svg" alt="Matplotlib" width="40" height="40"/>
 </p>
 
@@ -40,7 +40,7 @@ I'm a Bachelor's Student in Computer Science & Engineering, passionate about tec
 
 ### Other Tools
 <p>
-  <img src="https://raw.githubusercontent.com/pygame/pygame/main/docs/pygame.ico" alt="Pygame" width="40" height="40"/>
+  <img src="https://www.pygame.org/docs/_static/pygame.ico" alt="Pygame" width="40" height="40"/>
 </p>
 
 ---
