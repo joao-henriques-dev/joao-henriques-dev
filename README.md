@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Bachelor's Student in Computer Science & Engineering, curious about technology and its impact in society, with a strong passion for programming, a field in which I want to continue studying to become a great engineer at using AI/ML models. Adopting a mentality of an active, lifelong learner, I'm always looking to learn new skills and grow my current ones, focusing on project-based learning to keep challenging myself to step out of my comfort zone and bolster my tech stack.
+I'm a Bachelor's Student in Computer Science & Engineering, curious about technology and its impact in society, with a strong passion for programming, a field in which I want to continue studying to become a great AI/ML engineer or Data Scientist. Adopting a mentality of an active, lifelong learner, I'm always looking to learn new skills and grow my current ones, focusing on project-based learning to keep challenging myself to step out of my comfort zone and bolster my tech stack.
 
 > _"We are only confined by the walls we build ourselves."_
 
