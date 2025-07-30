@@ -26,12 +26,14 @@ I'm a Bachelor's Student in Computer Science & Engineering, curious about techno
 ### Machine Learning & Data Science
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+  <!--
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/250px-Scikit_learn_logo_small.svg.png" alt="Scikit-Learn" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/XGBoost_logo.svg/250px-XGBoost_logo.svg.png" alt="XGBoost" width="40" height="40"/>
   <img src="https://matplotlib.org/3.5.0/_static/images/logo2.svg" alt="Matplotlib" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
+  -->
 </p>
 
 ### Web Development
@@ -61,8 +63,10 @@ I'm a Bachelor's Student in Computer Science & Engineering, curious about techno
 
 - Deepening my understanding of Machine Learning and Deep Learning fundamentals
 - Scratching the surface of Git
-<!-- - Solidifying and expanding my knowledge about Front-End and Back-End Development -->
-<!-- - Discovering cutting-edge tools regarding Quantum Computing -->
+<!--
+- Solidifying and expanding my knowledge about Front-End and Back-End Development
+- Discovering cutting-edge tools regarding Quantum Computing
+-->
 - Learning Web scrapping and SQL databases in Python
 - Preparing for my next university semester (Data Structures and Algorithms, Operating Systems Fundamentals)
 
