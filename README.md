@@ -51,11 +51,14 @@ I'm a Bachelor's Student in Computer Science & Engineering, curious about techno
 
 ## 🚩 Highlighted Projects
 
-- **Naval Battle Game (Python + Pygame):**  
+- **Fantasy Premier League Asset Value Model (Python, Pandas, Numpy, Scikit-Learn, Seaborn, Matplotlib):**  
+  Built a comprehensive model composed of submodels (deterministic and predictive) that use data to come up with a reliable ranking of Fantasy Premier League assets according to their performance, fixtures and price.
+
+- **Naval Battle Game (Python, Pygame):**  
   A fun twist on the classic battleship game, built to sharpen my Python and game development skills.
 
-- **Static Website for a Botanic Congress (HTML + Bootstrap):**  
-  Designed and built during 10th grade to contribute to the first Botanic Congress my school was hosting.
+- **Static Website for a Botanic Congress (HTML, Bootstrap):**  
+  Designed during 10th grade to contribute to the first Botanic Congress my school was hosting.
 
 ---
 
@@ -63,6 +66,7 @@ I'm a Bachelor's Student in Computer Science & Engineering, curious about techno
 
 - Deepening my understanding of Machine Learning and Deep Learning fundamentals
 - Scratching the surface of Git
+- Expanding my Prompt Engineering skills
 <!--
 - Solidifying and expanding my knowledge about Front-End and Back-End Development
 - Discovering cutting-edge tools regarding Quantum Computing
