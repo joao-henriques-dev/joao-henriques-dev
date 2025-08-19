@@ -86,5 +86,3 @@ I'm a Bachelor's Student in Computer Science & Engineering, curious about techno
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-João%20Henriques-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jmhenriques/)](https://www.linkedin.com/in/jmhenriques/)
-
----
