@@ -80,6 +80,7 @@ I'm a Bachelor's Student in Computer Science & Engineering, curious about techno
 
 - I struggle not to fall in love with any science, as I’m endlessly curious about how our universe is shaped!
 - I possess a grand admiration for football analysis, especially in the data side of the sport.
+- I participated in the world's largest programming lesson!
 
 ---
 
