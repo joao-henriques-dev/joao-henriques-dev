@@ -52,9 +52,9 @@ I'm a Bachelor's Student in Computer Science & Engineering, curious about techno
 ## 🚩 Highlighted Projects
 
 - **Fantasy Premier League Asset Value Model (Python, Pandas, Numpy, Scikit-Learn, Seaborn, Matplotlib):**  
-  Built a comprehensive model composed of submodels (deterministic and predictive) that use data to come up with a reliable ranking of Fantasy Premier League assets according to their performance, fixtures and price.
+  Built a comprehensive model composed of submodels (deterministic and predictive) that use data to construct reliable rankings of Fantasy Premier League assets according to their performance, fixtures and price.
 
-- **Naval Battle Game (Python, Pygame):**  
+- **Simple Naval Battle Game (Python, Pygame):**  
   A fun twist on the classic battleship game, built to sharpen my Python and game development skills.
 
 - **Static Website for a Botanic Congress (HTML, Bootstrap):**  
