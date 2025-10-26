@@ -23,11 +23,6 @@ I'm a Bachelor's Student in Computer Science & Engineering, curious about techno
   <img src="https://victorxirau.tech/static/media/asm.634b4922.png" alt="Assembly" width="40" height="40"/>
 </p>
 
-<!-- Simple language card (hosted) -->
-<!-- LANG_BADGE_START -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-henriques-dev&repo=joao-henriques-dev&layout=compact)
-<!-- LANG_BADGE_END -->
-
 ### Machine Learning & Data Science
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
@@ -87,6 +82,15 @@ I'm a Bachelor's Student in Computer Science & Engineering, curious about techno
 - I struggle not to fall in love with any science, as I’m endlessly curious about how our universe is shaped!
 - I possess a grand admiration for football analysis, especially in the data side of the sport.
 - I participated in the world's largest programming lesson!
+
+---
+
+## Stats
+
+<!-- Simple language card (hosted) -->
+<!-- LANG_BADGE_START -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-henriques-dev&repo=joao-henriques-dev&layout=compact)
+<!-- LANG_BADGE_END -->
 
 ---
 
