@@ -85,11 +85,11 @@ I'm a Bachelor's Student in Computer Science & Engineering, curious about techno
 
 ---
 
-## Stats
+## 📊 Stats
 
 <!-- Simple language card (hosted) -->
 <!-- LANG_BADGE_START -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-henriques-dev&repo=joao-henriques-dev&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-henriques-dev&repo=joao-henriques-dev&layout=compact&theme=dark)
 <!-- LANG_BADGE_END -->
 
 ---
