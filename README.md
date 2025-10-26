@@ -73,7 +73,6 @@ I'm a Bachelor's Student in Computer Science & Engineering, curious about techno
 - Discovering cutting-edge tools regarding Quantum Computing
 -->
 - Learning Web scrapping and SQL databases in Python
-- Preparing for my next university semester (Data Structures and Algorithms, Operating Systems Fundamentals)
 
 ---
 
