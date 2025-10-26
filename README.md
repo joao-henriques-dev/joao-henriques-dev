@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Bachelor's Student in Computer Science & Engineering, curious about technology and its impact in society, with a strong passion for programming, a field in which I want to continue studying to become a great AI/ML engineer or Data Scientist. Adopting a mentality of an active, lifelong learner, I'm always looking to learn new skills and grow my current ones, focusing on project-based learning to keep challenging myself to step out of my comfort zone and bolster my tech stack.
+I'm a Bachelor's Student in Computer Science & Engineering, curious about technology and its impact in society, with a strong passion for programming, a field in which I want to continue studying [...]
 
 > _"We are only confined by the walls we build ourselves."_
 
@@ -22,6 +22,11 @@ I'm a Bachelor's Student in Computer Science & Engineering, curious about techno
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="36" height="40.5"/>
   <img src="https://victorxirau.tech/static/media/asm.634b4922.png" alt="Assembly" width="40" height="40"/>
 </p>
+
+<!-- Simple language card (hosted) -->
+<!-- LANG_BADGE_START -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-henriques-dev&repo=joao-henriques-dev&layout=compact)
+<!-- LANG_BADGE_END -->
 
 ### Machine Learning & Data Science
 <p>
@@ -52,7 +57,8 @@ I'm a Bachelor's Student in Computer Science & Engineering, curious about techno
 ## 🚩 Highlighted Projects
 
 - **Fantasy Premier League Asset Value Model (Python, Pandas, Numpy, Scikit-Learn, Seaborn, Matplotlib):**  
-  Built a comprehensive model composed of submodels (deterministic and predictive) that use data to construct reliable rankings of Fantasy Premier League assets according to their performance, fixtures and price.
+  Built a comprehensive model composed of submodels (deterministic and predictive) that use data to construct reliable rankings of Fantasy Premier League assets according to their performance, fix[...]
+
 
 - **Simple Naval Battle Game (Python, Pygame):**  
   A fun twist on the classic battleship game, built to sharpen my Python and game development skills.
@@ -86,4 +92,4 @@ I'm a Bachelor's Student in Computer Science & Engineering, curious about techno
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-João%20Henriques-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jmhenriques/)](https://www.linkedin.com/in/jmhenriques/)
+[![LinkedIn](https://img.shields.io/badge/-João%20Henriques-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jmhenriques/)](https://www.linkedin.com/in/jmhenr[...] )
