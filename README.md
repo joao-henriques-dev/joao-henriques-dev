@@ -44,6 +44,7 @@ I'm a Bachelor's Student in Computer Science & Engineering, curious about techno
 
 ### Other Tools
 <p>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/2048px-Icons8_flat_linux.svg.png" alt="Linux" width="40" height="40"/>
 <img src="https://www.pygame.org/docs/_static/pygame.ico" alt="Pygame" width="40" height="40"/>
 </p>
 
