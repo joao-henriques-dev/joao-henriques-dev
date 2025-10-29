@@ -88,7 +88,7 @@ Designed during 10th grade to contribute to the first Botanic Congress my school
 
 <!-- Simple language card (hosted) -->
 <!-- LANG_BADGE_START -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-henriques-dev&repo=joao-henriques-dev&layout=compact&theme=dark&v=20251028T205543)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-henriques-dev&repo=joao-henriques-dev&layout=compact&theme=dark&v=20251029T000000)
 <!-- LANG_BADGE_END -->
 
 ---
