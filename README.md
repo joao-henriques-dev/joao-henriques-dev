@@ -39,7 +39,7 @@ I'm a Bachelor's Student in Computer Science & Engineering, curious about techno
  <img src="https://www.pygame.org/docs/_static/pygame.ico" alt="Pygame" width="40" height="40"/>
 </p>
 
-### Explored tools (used them a bit, but I'm not skilled at them)
+### Tinkered With
 <p>
  <p>
   <img src="https://victorxirau.tech/static/media/asm.634b4922.png" alt="Assembly" width="40" height="40"/>
