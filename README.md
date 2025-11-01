@@ -20,32 +20,34 @@ I'm a Bachelor's Student in Computer Science & Engineering, curious about techno
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="36" height="40.5"/>
-<img src="https://victorxirau.tech/static/media/asm.634b4922.png" alt="Assembly" width="40" height="40"/>
 </p>
 
 ### Machine Learning & Data Science
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-<!--
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/250px-Scikit_learn_logo_small.svg.png" alt="Scikit-Learn" width="40" height="40"/>
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/XGBoost_logo.svg/250px-XGBoost_logo.svg.png" alt="XGBoost" width="40" height="40"/>
- <img src="https://matplotlib.org/3.5.0/_static/images/logo2.svg" alt="Matplotlib" width="40" height="40"/>
- <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
- -->
 </p>
 
 ### Web Development
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
 </p>
 
 ### Other Tools
 <p>
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/2048px-Icons8_flat_linux.svg.png" alt="Linux" width="40" height="40"/>
-<img src="https://www.pygame.org/docs/_static/pygame.ico" alt="Pygame" width="40" height="40"/>
+ <img src="https://www.pygame.org/docs/_static/pygame.ico" alt="Pygame" width="40" height="40"/>
+</p>
+
+### Explored tools (used them a bit, but I'm not skilled at them)
+<p>
+ <img src="https://victorxirau.tech/static/media/asm.634b4922.png" alt="Assembly" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/250px-Scikit_learn_logo_small.svg.png" alt="Scikit-Learn" width="40" height="40"/>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/XGBoost_logo.svg/250px-XGBoost_logo.svg.png" alt="XGBoost" width="40" height="40"/>
+ <img src="https://matplotlib.org/3.5.0/_static/images/logo2.svg" alt="Matplotlib" width="40" height="40"/>
+ <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
 </p>
 
 ---
@@ -88,7 +90,7 @@ Designed during 10th grade to contribute to the first Botanic Congress my school
 
 <!-- Simple language card (hosted) -->
 <!-- LANG_BADGE_START -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-henriques-dev&repo=joao-henriques-dev&layout=compact&theme=dark&v=20251029T000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-henriques-dev&repo=joao-henriques-dev&layout=compact&theme=dark&v=20251101T000000)
 <!-- LANG_BADGE_END -->
 
 ---
