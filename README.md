@@ -76,6 +76,7 @@ Designed during 10th grade to contribute to the first Botanic Congress my school
 
 ### Use (or used) regularly
 <p>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Pop%21_OS_Icon.svg/2048px-Pop%21_OS_Icon.svg.png" alt="Pop!_OS" width="40" height="40"/>
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/2048px-Linux_Mint_logo_without_wordmark.svg.png" alt="Linux Mint" width="40" height="40"/>
 </p>
 
