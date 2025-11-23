@@ -33,17 +33,17 @@ I'm a Bachelor's Student in Computer Science & Engineering, curious about techno
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
 </p>
 
+### Operating Systems
+<p>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/2048px-Icons8_flat_linux.svg.png" alt="Linux" width="40" height="40"/>
+</p>
+
 ### Game Development
 <p>
  <img src="https://www.pygame.org/docs/_static/pygame.ico" alt="Pygame" width="40" height="40"/>
 </p>
 
-### Other Tools
-<p>
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/2048px-Icons8_flat_linux.svg.png" alt="Linux" width="40" height="40"/>
-</p>
-
-### Tinkered With
+### Other tools I tinkered with...
 <p>
  <p>
   <img src="https://victorxirau.tech/static/media/asm.634b4922.png" alt="Assembly" width="40" height="40"/>
