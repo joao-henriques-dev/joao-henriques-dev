@@ -110,7 +110,9 @@ Designed during 10th grade to contribute to the first Botanic Congress my school
 
 - Scaling the FPL Asset Value Model into a web app
 - Writing a System Prompt AI Agent that analyses loads of model prompts to help with prompt engineering skills
-- Experimenting cool stuff with
+- Experimenting cool stuff with some REST APIs
+- Discovering encryption mechanisms in Python
+- Considering a Vibe Coding project to deeply understand how to take the most out of the AI coding assistants
 
 ---
 
