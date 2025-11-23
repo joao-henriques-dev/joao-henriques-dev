@@ -106,6 +106,14 @@ Designed during 10th grade to contribute to the first Botanic Congress my school
 
 ---
 
+## 📄 Future Learnings & Projects Ideas
+
+- Scaling the FPL Asset Value Model into a web app
+- Writing a System Prompt AI Agent that analyses loads of model prompts to help with prompt engineering skills
+- Experimenting cool stuff with
+
+---
+
 ## 🤔 Fun Facts
 
 - I struggle not to fall in love with any science, as I’m endlessly curious about how our universe is shaped!
