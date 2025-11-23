@@ -33,10 +33,14 @@ I'm a Bachelor's Student in Computer Science & Engineering, curious about techno
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
 </p>
 
+### Game Development
+<p>
+ <img src="https://www.pygame.org/docs/_static/pygame.ico" alt="Pygame" width="40" height="40"/>
+</p>
+
 ### Other Tools
 <p>
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/2048px-Icons8_flat_linux.svg.png" alt="Linux" width="40" height="40"/>
- <img src="https://www.pygame.org/docs/_static/pygame.ico" alt="Pygame" width="40" height="40"/>
 </p>
 
 ### Tinkered With
@@ -90,10 +94,11 @@ Designed during 10th grade to contribute to the first Botanic Congress my school
 
 ## 🌱 Currently Learning
 
-- Deepening my understanding of Machine Learning and Deep Learning fundamentals
+- Studying Data Structures and Algorithms and Operating Systems in university
 - Scratching the surface of Git
-- Expanding my Prompt Engineering skills
 <!--
+- Deepening my understanding of Machine Learning and Deep Learning fundamentals
+- Expanding my Prompt Engineering skills
 - Solidifying and expanding my knowledge about Front-End and Back-End Development
 - Discovering cutting-edge tools regarding Quantum Computing
 - Learning Web scrapping and SQL databases in Python
