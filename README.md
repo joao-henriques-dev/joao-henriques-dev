@@ -94,11 +94,10 @@ Designed during 10th grade to contribute to the first Botanic Congress my school
 
 ## 🌱 Currently Learning
 
-- Studying Data Structures and Algorithms and Operating Systems in university
 - Scratching the surface of Git
+- Expanding my Prompt Engineering skills
 <!--
 - Deepening my understanding of Machine Learning and Deep Learning fundamentals
-- Expanding my Prompt Engineering skills
 - Solidifying and expanding my knowledge about Front-End and Back-End Development
 - Discovering cutting-edge tools regarding Quantum Computing
 - Learning Web scrapping and SQL databases in Python
@@ -109,9 +108,9 @@ Designed during 10th grade to contribute to the first Botanic Congress my school
 ## 📄 Future Learnings & Projects Ideas
 
 - Scaling the FPL Asset Value Model into a web app
-- Writing a System Prompt AI Agent that analyses loads of model prompts to help with prompt engineering skills
+- Pondering diving deeper into C programming
 - Experimenting cool stuff with some REST APIs
-- Discovering encryption mechanisms in Python
+- Discovering encryption mechanisms in Python or Java
 - Considering a Vibe Coding project to deeply understand how to take the most out of the AI coding assistants
 
 ---
