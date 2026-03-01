@@ -50,6 +50,7 @@ I'm a Bachelor's Student in Computer Science & Engineering, curious about techno
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.CKsx2nsNfTkO4UTl-sryuAHaHa%3Fpid%3DApi&f=1&ipt=22d97a2fb8316d3bb1624852c6e661ec1d815ce8b732d0137347c6689255b821" alt="Prolog" width="40" height="40"/>
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.lGdX_Bc1pZJA7Lqoue6SugHaHa%3Fpid%3DApi&f=1&ipt=5564df1f6056f8ec58f09a50535844ac515ab7eaf824e2ce6ccaa903652fc3db" alt="Prolog" width="40" height="40"/>
+  ![VHDL](https://img.shields.io/badge/VHDL-555555?style=flat&logo=v)
  </p>
  <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
