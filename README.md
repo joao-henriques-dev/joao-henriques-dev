@@ -126,15 +126,6 @@ Designed during 10th grade to contribute to the first Botanic Congress my school
 
 ---
 
-## 📊 Stats
-
-<!-- Simple language card (hosted) -->
-<!-- LANG_BADGE_START -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-henriques-dev&repo=joao-henriques-dev&layout=compact&theme=dark)
-<!-- LANG_BADGE_END -->
-
----
-
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-João%20Henriques-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jmhenriques/)](https://www.linkedin.com/in/jmhenriques/)
