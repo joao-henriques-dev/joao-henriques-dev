@@ -98,6 +98,7 @@ Designed during 10th grade to contribute to the first Botanic Congress my school
 ## 🌱 Currently Learning
 
 - Functional Programming in OCaml
+- Relational Databases with SQL
 <!--
 - Scratching the surface of Git
 - Deepening my understanding of Machine Learning and Deep Learning fundamentals
