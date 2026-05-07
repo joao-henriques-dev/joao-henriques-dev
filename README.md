@@ -16,53 +16,40 @@ I'm a Bachelor's Student in Computer Science & Engineering, curious about techno
 ## 🛠️ Skills & Tools
 
 ### Programming Languages
-<p>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
- <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="36" height="40.5"/>
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge)
 
 ### Machine Learning & Data Science
-<p>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-</p>
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge)
 
 ### Web Development
-<p>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge)
 
 ### Operating Systems
-<p>
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/2048px-Icons8_flat_linux.svg.png" alt="Linux" width="40" height="40"/>
-</p>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logoColor=black)
 
 ### Game Development
-<p>
- <img src="https://www.pygame.org/docs/_static/pygame.ico" alt="Pygame" width="40" height="40"/>
-</p>
+![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=for-the-badge)
 
 ### Other tools I tinkered with...
-<p>
- <p>
-  <img src="https://victorxirau.tech/static/media/asm.634b4922.png" alt="Assembly" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.CKsx2nsNfTkO4UTl-sryuAHaHa%3Fpid%3DApi&f=1&ipt=22d97a2fb8316d3bb1624852c6e661ec1d815ce8b732d0137347c6689255b821" alt="Prolog" width="40" height="40"/>
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.lGdX_Bc1pZJA7Lqoue6SugHaHa%3Fpid%3DApi&f=1&ipt=5564df1f6056f8ec58f09a50535844ac515ab7eaf824e2ce6ccaa903652fc3db" alt="Prolog" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/VHDL-555555?style=flat&logo=v" alt="VHDL" height="40"/>
- </p>
- <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/250px-Scikit_learn_logo_small.svg.png" alt="Scikit-Learn" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/XGBoost_logo.svg/250px-XGBoost_logo.svg.png" alt="XGBoost" width="40" height="40"/>
-  <img src="https://matplotlib.org/3.5.0/_static/images/logo2.svg" alt="Matplotlib" width="40" height="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
- </p>
- <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
- </p>
-</p>
+
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge)
+![Prolog](https://img.shields.io/badge/Prolog-74283C?style=for-the-badge)
+![VHDL](https://img.shields.io/badge/VHDL-543978?style=for-the-badge)
+
+![XML](https://img.shields.io/badge/XML-0060AC?style=for-the-badge)
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge)
+![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge)
 
 ---
 
@@ -82,16 +69,12 @@ Designed during 10th grade to contribute to the first Botanic Congress my school
 ## 🐧 Linux Distros Catalog
 
 ### Use (or used) regularly
-<p>
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Pop%21_OS_Icon.svg/2048px-Pop%21_OS_Icon.svg.png" alt="Pop!_OS" width="40" height="40"/>
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/2048px-Linux_Mint_logo_without_wordmark.svg.png" alt="Linux Mint" width="40" height="40"/>
-</p>
+![Pop!_OS](https://img.shields.io/badge/Pop!__OS-48B9C7?style=for-the-badge)
+![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge)
 
 ### Tried (or used occasionally)
-<p>
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/1200px-UbuntuCoF.svg.png" alt="Ubuntu" width="40" height="40"/>
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGhDKOzoebY8GzPGbkhfLViQjA5g1ybP42kg&s" alt="Debian" width="31" height="40"/>
-</p>
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge)
 
 ---
 
@@ -122,7 +105,7 @@ Designed during 10th grade to contribute to the first Botanic Congress my school
 ## 🤔 Fun Facts
 
 - I am a strong defender of digital rights and data privacy/sovereignty, a view which has shaped and continues to do so regarding my online habits and web activity.
-- I struggle not to fall in love with any science, as I’m endlessly curious about how our universe is shaped!
+- I struggle not to fall in love with any science, as I'm endlessly curious about how our universe is shaped!
 - I possess a grand admiration for football analysis, especially in the data side of the sport.
 - I participated in the world's largest programming lesson!
 
