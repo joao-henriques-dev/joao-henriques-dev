@@ -18,6 +18,7 @@ I'm a Bachelor's Student in Computer Science & Engineering, curious about techno
 ### Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge)
 
 ### Machine Learning & Data Science
@@ -39,14 +40,16 @@ I'm a Bachelor's Student in Computer Science & Engineering, curious about techno
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Prolog](https://img.shields.io/badge/Prolog-74283C?style=for-the-badge)
 ![VHDL](https://img.shields.io/badge/VHDL-543978?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
-![XML](https://img.shields.io/badge/XML-0060AC?style=for-the-badge)
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge)
 ![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+![XML](https://img.shields.io/badge/XML-0060AC?style=for-the-badge)
 
 ---
 
