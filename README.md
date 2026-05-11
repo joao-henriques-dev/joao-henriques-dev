@@ -82,9 +82,10 @@ Designed during 10th grade to contribute to the first Botanic Congress my school
 
 ## 🌱 Currently Learning
 
-- Functional Programming / Interpreters in OCaml
-- Relational Databases with SQL
-- Typical Git workflows
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
