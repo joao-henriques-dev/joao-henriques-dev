@@ -100,6 +100,7 @@ Designed during 10th grade to contribute to the first Botanic Congress my school
 ## 🤔 Fun Facts
 
 - I am a strong defender of digital rights and data privacy/sovereignty, a view which has shaped and continues to do so regarding my online habits and web activity.
+- I invest in financial markets and have studied this topic for some time.
 - I struggle not to fall in love with any science, as I'm endlessly curious about how our universe is shaped!
 - I possess a grand admiration for football analysis, especially in the data side of the sport.
 - I participated in the world's largest programming lesson!
