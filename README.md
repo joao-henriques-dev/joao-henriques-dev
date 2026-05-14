@@ -54,6 +54,8 @@ I'm a Bachelor's Student in Computer Science & Engineering, curious about techno
 
 ![XML](https://img.shields.io/badge/XML-0060AC?style=for-the-badge)
 
+![yfinance](https://img.shields.io/badge/yfinance-6001D2?style=for-the-badge)
+
 ---
 
 ## 🚩 Highlighted Projects
@@ -86,6 +88,7 @@ Designed during 10th grade to contribute to the first Botanic Congress my school
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![OCaml](https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge&logo=ocaml&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+![yfinance](https://img.shields.io/badge/yfinance-6001D2?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
