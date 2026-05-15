@@ -52,6 +52,7 @@ I'm a Bachelor's Student in Computer Science & Engineering, curious about techno
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-0060AC?style=for-the-badge)
 
 ![yfinance](https://img.shields.io/badge/yfinance-6001D2?style=for-the-badge)
