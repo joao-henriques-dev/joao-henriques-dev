@@ -1,13 +1,17 @@
 # Hello there, I'm João Henriques 👋
 
-🎓 **2nd year BSc in Computer Science and Engineering Student**  
-🚀 Aspiring **AI/ML Engineer** & **Data Scientist** or **Software Engineer for privacy-first applications** (considering both paths...)
+🎓 **2nd year BSc in Computer Science and Engineering Student**
 
 ---
 
 ## 👨‍💻 About Me
 
 I'm a Bachelor's Student in Computer Science & Engineering, curious about technology and its impact in society, with a strong passion for programming, a field in which I want to continue studying to achieve my aspirations and contribute to make the internet a safer, better place. Adopting a mentality of an active, lifelong learner, I'm always looking to learn new skills and grow my current ones, focusing on project-based learning to keep challenging myself to step out of my comfort zone and bolster my tech stack.
+
+Career paths I'm considering:
+- AI/ML Engineer or Data Scientist
+- Software Engineer for privacy-minded applications
+- Quantitative Trader
 
 > _"We are only confined by the walls we build ourselves."_
 
