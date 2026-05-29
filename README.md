@@ -46,6 +46,8 @@ Career paths I'm considering:
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Prolog](https://img.shields.io/badge/Prolog-74283C?style=for-the-badge)
+![Datalog](https://img.shields.io/badge/Datalog-74283C?style=for-the-badge)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![VHDL](https://img.shields.io/badge/VHDL-543978?style=for-the-badge)
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
