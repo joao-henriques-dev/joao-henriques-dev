@@ -11,7 +11,7 @@ I'm a Bachelor's Student in Computer Science & Engineering, curious about techno
 Career paths I'm considering:
 - AI/ML Engineer or Data Scientist
 - Software Engineer for privacy-minded applications
-- Quantitative Trader
+- Quantitative Trader (small interest)
 
 > _"We are only confined by the walls we build ourselves."_
 
@@ -46,7 +46,6 @@ Career paths I'm considering:
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Prolog](https://img.shields.io/badge/Prolog-74283C?style=for-the-badge)
-![Datalog](https://img.shields.io/badge/Datalog-74283C?style=for-the-badge)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![VHDL](https://img.shields.io/badge/VHDL-543978?style=for-the-badge)
 
@@ -60,6 +59,7 @@ Career paths I'm considering:
 
 ![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-0060AC?style=for-the-badge)
+![Datalog](https://img.shields.io/badge/Datalog-74283C?style=for-the-badge)
 
 ![yfinance](https://img.shields.io/badge/yfinance-6001D2?style=for-the-badge)
 
@@ -103,9 +103,9 @@ Designed during 10th grade to contribute to the first Botanic Congress my school
 
 ## 📄 Future Learnings & Projects Ideas
 
-- Scaling the FPL Asset Value Model into a web app (with a web scrapper and a database)
+- Scaling the FPL Asset Value Model into a web app (with a web scrapper and a sql database)
 - Experimenting with some REST APIs for financial analysis
-- Discovering encryption mechanisms in Python or Java
+- Buying a Raspberry Pi for a Pi-hole project
 
 ---
 
