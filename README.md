@@ -103,7 +103,7 @@ Designed during 10th grade to contribute to the first Botanic Congress my school
 
 ## 📄 Future Learnings & Projects Ideas
 
-- Scaling the FPL Asset Value Model into a web app (with a web scrapper and a sql database)
+- Scaling the FPL Asset Value Model into a web app (with a SQL database and a more robust infrastructure)
 - Experimenting with some REST APIs for financial analysis
 - Buying a Raspberry Pi for a Pi-hole project
 
