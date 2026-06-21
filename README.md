@@ -70,7 +70,7 @@ Career paths I'm considering:
 
 ---
 
-## 🚩 Highlighted Projects
+## 📄 Highlighted Projects
 
 - **Fantasy Premier League Asset Value Model (Python, Pandas, Numpy, Scikit-Learn, Seaborn, Matplotlib):**  
 Built a comprehensive model composed of submodels (deterministic and predictive) that use data to construct reliable rankings of Fantasy Premier League assets according to their performance, fixtures and price.
@@ -103,14 +103,6 @@ Designed during 10th grade to contribute to the first Botanic Congress my school
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![yfinance](https://img.shields.io/badge/yfinance-6001D2?style=for-the-badge)
 <!-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) -->
-
----
-
-## 📄 Future Learnings & Projects Ideas
-
-- Scaling the FPL Asset Value Model into a web app (with a SQL database and a more robust infrastructure)
-- Experimenting with some REST APIs for financial analysis
-- Buying a Raspberry Pi for a Pi-hole project
 
 ---
 
