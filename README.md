@@ -19,6 +19,8 @@ Career paths I'm considering:
 
 ## 🛠️ Skills & Tools
 
+> These are the tools I spent quite some time learning and experimenting with, with which I consider myself quite capable of doing something.
+
 ### Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -41,32 +43,42 @@ Career paths I'm considering:
 ### Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### Game Development
-![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=for-the-badge)
+### Other tools
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### Other tools I tinkered with...
+## 🤔 Other tools I tinkered with
 
+> These are the tools I experimented with once and then stopped using it or used it superficially. Saying I'm skilled in any of them would be an exaggeration, but I know what they are and their common use cases.
+
+### Programming Languages
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Prolog](https://img.shields.io/badge/Prolog-74283C?style=for-the-badge)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![VHDL](https://img.shields.io/badge/VHDL-543978?style=for-the-badge)
 
+### Machine Learning & Data Science
 ![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge)
 
+### Web Development
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Flask-SQLAlchemy](https://img.shields.io/badge/Flask--SQLAlchemy-4479A1?style=for-the-badge&logo=flask&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+### Databases
 ![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-0060AC?style=for-the-badge)
 ![Datalog](https://img.shields.io/badge/Datalog-74283C?style=for-the-badge)
 
+### Finance
 ![yfinance](https://img.shields.io/badge/yfinance-6001D2?style=for-the-badge)
+
+### Game Development
+![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=for-the-badge)
 
 ---
 
