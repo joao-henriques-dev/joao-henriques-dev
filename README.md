@@ -43,6 +43,9 @@ Career paths I'm considering:
 ### Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+### AI
+![Claude Code](https://img.shields.io/badge/Claude%20Code-CC785C?style=for-the-badge)
+
 ### Other tools
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
@@ -109,11 +112,12 @@ Designed during 10th grade to contribute to the first Botanic Congress my school
 
 ## 🌱 Currently Learning
 
+![Claude Code](https://img.shields.io/badge/Claude%20Code-CC785C?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Flask-SQLAlchemy](https://img.shields.io/badge/Flask--SQLAlchemy-4479A1?style=for-the-badge&logo=flask&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![yfinance](https://img.shields.io/badge/yfinance-6001D2?style=for-the-badge)
+<!-- ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) -->
 <!-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) -->
 
 ---
