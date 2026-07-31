@@ -87,6 +87,9 @@ Career paths I'm considering:
 ### Game Development
 ![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=for-the-badge)
 
+### AI
+![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+
 ---
 
 ## 📄 Highlighted Projects
