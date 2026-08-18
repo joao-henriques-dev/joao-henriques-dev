@@ -1,6 +1,6 @@
 # Hello there, I'm João Henriques 👋
 
-🎓 **2nd year BSc in Computer Science and Engineering Student**
+🎓 **3rd year BSc in Computer Science and Engineering Student**
 
 ---
 
