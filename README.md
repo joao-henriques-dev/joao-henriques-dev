@@ -38,6 +38,8 @@ Career paths I'm considering:
 
 ### Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Flask-SQLAlchemy](https://img.shields.io/badge/Flask--SQLAlchemy-4479A1?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Databases
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
@@ -70,8 +72,6 @@ Career paths I'm considering:
 ![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge)
 
 ### Web Development
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Flask-SQLAlchemy](https://img.shields.io/badge/Flask--SQLAlchemy-4479A1?style=for-the-badge&logo=flask&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -89,6 +89,9 @@ Career paths I'm considering:
 
 ### AI
 ![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### Other tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
@@ -120,10 +123,9 @@ Designed during 10th grade to contribute to the first Botanic Congress my school
 ## 🌱 Currently Learning
 
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-CC785C?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Flask-SQLAlchemy](https://img.shields.io/badge/Flask--SQLAlchemy-4479A1?style=for-the-badge&logo=flask&logoColor=white)
-![yfinance](https://img.shields.io/badge/yfinance-6001D2?style=for-the-badge)
+<!-- ![yfinance](https://img.shields.io/badge/yfinance-6001D2?style=for-the-badge) -->
 <!-- ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) -->
 <!-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) -->
 
