@@ -98,8 +98,8 @@ Career paths I'm considering:
 
 ## 📄 Highlighted Projects
 
-- **Fantasy Premier League Asset Value Model (Python, Pandas, Numpy, Scikit-Learn, Seaborn, Matplotlib):**  
-Built a comprehensive model composed of submodels (deterministic and predictive) that use data to construct reliable rankings of Fantasy Premier League assets according to their performance, fixtures and price.
+- **Fantasy Premier Picks (Python/Flask, React/TypeScript, SQLAlchemy, scikit-learn, Recharts):**  
+A free web app that scores every Fantasy Premier League player 1–100 and ranks upcoming fixtures by difficulty, so you don't have to eyeball spreadsheets to know if a transfer is actually worth it.
 
 - **Simple Naval Battle Game (Python, Pygame):**  
 A fun twist on the classic battleship game, built to sharpen my Python and game development skills.
