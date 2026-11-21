@@ -91,6 +91,7 @@ I'm a final year Bachelor's Student in Computer Science & Engineering at NOVA SS
 ### AI
 ![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-FF4D8D?style=for-the-badge&logo=lovable&logoColor=white)
 ![Google Gemini API](https://img.shields.io/badge/Google%20Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 ### Deployment tools
@@ -98,6 +99,13 @@ I'm a final year Bachelor's Student in Computer Science & Engineering at NOVA SS
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Upstash Redis](https://img.shields.io/badge/Upstash%20Redis-00E9A3?style=for-the-badge&logo=upstash&logoColor=black)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
+
+### Electronics/Hardware
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Pi-hole](https://img.shields.io/badge/Pi--hole-96060C?style=for-the-badge&logo=pihole&logoColor=white)
+![Xilinx](https://img.shields.io/badge/Xilinx-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![FPGA](https://img.shields.io/badge/FPGA-5C2D91?style=for-the-badge)
 
 ### Other tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
